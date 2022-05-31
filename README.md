@@ -16,7 +16,7 @@ brew install datafusion-contrib/tap/<formula>
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/timvw/homebrew-tap/master/Formula/<formula>.rb
+brew install https://raw.githubusercontent.com/datafusion-contrib/homebrew-tap/master/Formula/<formula>.rb
 ```
 
 ## Documentation
